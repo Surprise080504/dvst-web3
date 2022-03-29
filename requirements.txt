@@ -1,0 +1,175 @@
+Bitcoin
+Source: https://github.com/bitcoin/bitcoin/blob/v22.0/src/key.cpp
+Ethereum
+Binance Chain
+Solana
+Cardano
+Source: https://github.com/input-output-hk/cardano-crypto/blob/develop/src/Cardano/Crypto/Wallet.hs
+XRP
+Source: https://xrpl.org/cryptographic-keys.html#signing-algorithms
+Polkadot
+Source: https://wiki.polkadot.network/docs/learn-keys
+Terra
+Source: https://docs.terra.money/Reference/Terra-core/Module-specifications/spec-auth.html
+Avalanche
+Source: https://github.com/ava-labs/avalanchego/blob/v1.7.3/vms/platformvm/spend.go
+Dogecoin
+Bitcoin fork.
+Source: https://github.com/dogecoin/dogecoin/blob/v1.14.5/src/key.cpp
+Cosmos
+Source: https://github.com/cosmos/cosmos-sdk/blob/master/crypto/keys/internal/ecdsa/pubkey.go
+Algorand
+Source: https://github.com/algorand/go-algorand-sdk/blob/develop/types/signature.go
+Litecoin
+Bitcoin fork.
+Source: https://github.com/litecoin-project/litecoin/blob/v0.21.1rc1/src/key.cpp
+Near
+Source: https://docs.near.org/docs/roles/integrator/implicit-accounts
+Bitcoin Cash
+Bitcoin fork.
+Source: https://github.com/bitcoin-cash-node/bitcoin-cash-node/blob/master/src/key.cpp
+Tron
+Source: https://tronprotocol.github.io/documentation-en/mechanism-algorithm/account/#key-pair-generation
+Stellar
+Source: https://developers.stellar.org/docs/glossary/multisig/
+DFINITY Internet Computer
+Source: https://smartcontracts.org/docs/interface-spec/index.html#ecdsa
+VeChain
+Source: https://github.com/vechain/thor/search?q=ecdsa
+Hedera
+Source: https://github.com/hashgraph/hedera-docs/blob/cee6a0910fc6a0fd589e873441abefd8d837f8a7/docs/hedera-api/basic-types/signature.md
+Filecoin
+Source:
+https://github.com/filecoin-project/specs/blob/v2.1.1/content/algorithms/crypto/signatures.md
+https://github.com/filecoin-project/specs/blob/v2.1.1/content/appendix/address.md
+Theta
+Source: https://github.com/thetatoken/theta-protocol-ledger/blob/v3.2.0/crypto/keyutils.go
+Elrond
+Source:
+https://docs.elrond.com/developers/signing-transactions/signing-transactions/
+https://elrond.com/assets/files/elrond-whitepaper.pdf
+Ethereum Classic
+Transactions use 
+Ethereum fork. The status of BLS support in contracts is unclear.
+Tezos
+tz1 accounts: 
+tz2 accounts: 
+tz3 accoutns: 
+tz3 accounts seem to be most widely used.
+Klaytn
+Source: https://github.com/klaytn/klaytn/blob/v1.7.3/crypto/crypto.go
+Harmony
+Monero
+Source:
+https://github.com/monero-project/monero/blob/v0.17.3.0/src/cryptonote_basic/account.cpp
+Helium
+Source: https://docs.helium.com/blockchain/blockchain-primitives/#accounts-wallets-and-keys
+IOTA
+Source: https://github.com/iotaledger/tips/blob/main/tips/TIP-0007/tip-0007.md
+EOS
+Source: https://github.com/EOSIO/eos/tree/v2.1.0/docs
+Arweave
+RSA-4096.
+Source: https://github.com/ArweaveTeam/arweave/blob/N.2.5.0.0/apps/arweave/include/ar.hrl#L45-L47
+Flow
+Source:
+https://github.com/onflow/flow-go/blob/v0.23.5/crypto/ecdsa.go
+https://docs.onflow.org/cadence/language/crypto/
+https://docs.onflow.org/concepts/accounts-and-keys/
+Stacks
+Source: https://docs.stacks.co/understand-stacks/accounts
+Bitcoin SV
+Bitcoin fork.
+Source: https://github.com/bitcoin-sv/bitcoin-sv/blob/v1.0.10/src/key.cpp
+Radix
+Source: https://docs.radixdlt.com/main/node-api/making-transactions.html#sign-transaction-locally
+THORChain
+Source: https://github.com/thorchain/thornode/blob/76bc0474ff8a8812299be2f9ae81d144f3b97089/bifrost/pkg/chainclients/ethereum/key_sign_wrapper.go
+Bitcoin ABC
+Bitcoin fork.
+Source: https://github.com/Bitcoin-ABC/bitcoin-abc/blob/v0.24.9/src/key.cpp
+Celo
+Source: https://github.com/celo-org/celo-blockchain/tree/v1.4.1/crypto
+Neo
+Source:
+https://github.com/neo-project/neo/blob/v3.1.0/src/neo/Cryptography/Crypto.cs
+https://docs.neo.org/docs/en-us/basic/concept/cryptography/encryption_algorithm.html
+Zcash
+Source:
+https://zips.z.cash/protocol/protocol.pdf
+https://github.com/zcash/zcash/issues/3764
+https://github.com/ZcashFoundation/redjubjub
+Kadena
+Source: https://kadena-io.github.io/kadena-docs/Chainweaver-Support#key-pair-generation
+Dash
+Source:
+https://dashcore.readme.io/docs/core-guide-wallets-wallet-files
+https://www.dash.org/blog/secret-sharing-and-threshold-signatures-with-bls/
+https://github.com/dashpay/dash/tree/master/doc/release-notes/dash
+Mina
+Schnorr over Pallas.
+Mina used to use a different curve, MNT4-753, until Dec 2021.
+Source:
+https://github.com/MinaProtocol/mina/blob/1.3.0alpha1/docs/specs/signatures/description.md
+https://github.com/MinaProtocol/mina/blob/1.2.2/docs/specs/signatures/description.md
+Ravencoin
+Bitcoin fork.
+Source: https://github.com/RavenProject/Ravencoin/blob/v4.3.2.1/src/key.cpp
+Symbol (formerly NEM)
+Source: https://github.com/symbol/symbol/blob/8821697271a4e224184ae90316cc262d99c8e7d0/sdk/python/symbolchain/core/nem/KeyPair.py
+IoTeX
+Source: https://github.com/iotexproject/iotex-core/blob/fc0fe830120a05f57430d9f88529a006829cb57e/ioctl/newcmd/account/account.go
+Secret
+Source: https://github.com/scrtlabs/SecretNetwork/tree/v1.2.3/client/docs
+Zilliqa
+Source:
+https://docs.zilliqa.com/whitepaper.pdf
+https://github.com/Zilliqa/schnorr/blob/88faebfd4f623bbf6f99f9437761881eb352c007/README.md
+Qtum
+Source: https://github.com/qtumproject/qtum/blob/mainnet-fastlane-v0.20.4/src/key.cpp
+Decred
+Schnorr over secp256k1
+Source: https://docs.decred.org/research/elliptic-curve-signature-algorithms/
+ICON
+Source: https://github.com/icon-project/goloop/blob/v1.1.3/common/crypto/key.go
+Sia
+Source: https://github.com/SiaFoundation/siad/blob/v1.5.7/crypto/signatures.go
+Kava
+Horizen
+Bitcoin fork.
+Source: https://github.com/HorizenOfficial/zen/blob/v3.0.3/src/key.cpp
+IOST
+Source: https://github.com/iost-official/go-iost/blob/v3.7.3/crypto/algorithm.go
+Flux
+(Zcash fork)
+Bitcoin Gold
+Bitcoin fork.
+Source: https://github.com/BTCGPU/BTCGPU/blob/v0.17.3/src/key.cpp
+Syscoin
+Bitcoin fork.
+Source: https://github.com/syscoin/syscoin/blob/v4.3.0/src/key.cpp
+Nervos
+Source: https://github.com/nervosnetwork/ckb/blob/v0.101.3/util/crypto/src/secp/privkey.rs
+Ontology
+Source:
+https://github.com/ontio/ontology/blob/v2.3.3/cmd/account.go
+https://ontio.github.io/documentation/ontology_wallet_dev_ts_sdk_en.html#21-create-a-random-account
+Fantom
+Source: https://github.com/Fantom-foundation/go-opera/blob/v1.0.2-rc.5/valkeystore/signer.go
+Constellation
+Source: https://github.com/Constellation-Labs/constellation/blob/v2.29.10/keytool/src/main/scala/org/constellation/keytool/KeyUtils.scala
+DigiByte
+Bitcoin fork.
+Source: https://github.com/DigiByte-Core/digibyte/blob/v7.17.3/src/key.cpp
+Casper Network
+Source: https://github.com/casper-network/casper-node/blob/v1.4.4/client/lib/keygen.rs
+Chia
+Source: https://docs.chia.net/docs/09keys/keys-and-signatures/
+Verge
+Source: https://github.com/vergecurrency/verge/blob/v7.0.0/src/key.cpp
+Ergo
+Source: https://github.com/ergoplatform/ledger-app-ergo/blob/9e996883184ac2d5aab7abf8f3f2f10544992040/src/crypto/ergo.c
+Ark
+Source: https://github.com/ArkEcosystem/core/blob/3.0.6/packages/crypto/src/crypto/message.ts
+Divi
+Source: https://github.com/DiviProject/Divi/blob/v2.10.1/divi/src/key.cpp
